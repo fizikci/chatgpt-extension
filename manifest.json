@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ChatGPT UI Enhancements",
   "version": "1.0",
-  "description": "Makes ChatGPT UI easier to use with features like collapsing, expanding and deleting messages.",
+  "description": "Makes ChatGPT UI easier to use with collapsing and expanding messages.",
   "content_scripts": [
     {
       "matches": ["https://chat.openai.com/*"],
